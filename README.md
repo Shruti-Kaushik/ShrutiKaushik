@@ -1,4 +1,5 @@
 # ShrutiKaushik
+![logo](https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif)
 <h1 align="center">Hi 👋, I'm Shruti Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn0.iconfinder.com/data/icons/startup-and-new-business-3/24/developer-woman-1024.png"
